@@ -9,16 +9,15 @@ All Notes, Practices and Pair Programming will be UPLOADED HERE as webpages of O
   Concept: 
   When:    
   
-  Title:   index.html   
-  Concept: 
-            *sentence and paragraph tags
-            *header tags
-            *lists: ordered and unordered
-            *definition lists
-            *image tags
-            *linking tags
-            *language tag attributes
-  When:    In class, January 26, 2017
+  Title:    index.html    
+  Concept:  * sentence and paragraph tags
+            * header tags
+            * lists ordered and unordered
+            * definition lists
+            * image tags
+            * linking tags
+            * language tag attributes
+  When:    In class, Thursday January 26, 2017
   
   Title:   more-tags.html
   Concept: exeternal linking
@@ -28,7 +27,7 @@ All Notes, Practices and Pair Programming will be UPLOADED HERE as webpages of O
            italics tag
            bold tag
            forbidden tag (underline)
-  When: 
+  When:    Tuesday January 31, 2017
   
   Title:   nestedlists-pp.html
   Concept: Nested Lists

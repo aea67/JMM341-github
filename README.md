@@ -10,13 +10,14 @@ All Notes, Practices and Pair Programming will be UPLOADED HERE as webpages of O
   When:    
   
   Title:    index.html    
-  Concept:  * sentence and paragraph tags
-            * header tags
-            * lists ordered and unordered
-            * definition lists
-            * image tags
-            * linking tags
-            * language tag attributes
+  Concept:  
+* sentence and paragraph tags
+* header tags
+* lists ordered and unordered
+* definition lists
+* image tags
+* linking tags
+* language tag attributes
   When:    In class, Thursday January 26, 2017
   
   Title:   more-tags.html

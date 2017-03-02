@@ -1,0 +1,57 @@
+body {
+  background-image: url("../img/cat-bg.png"); /* change this line only! */
+  color: #222;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: rgb(191,55,45);
+  text-decoration: none;
+  padding: 0.5em;
+  background-color: #eee;
+  border: 2px solid #ccc;
+}
+
+a:hover {
+  color: rgb(150,55,45);
+  background-color: #ccc;
+  border: 2px solid #aaa;
+}
+
+header h1,
+header h2 {
+  margin: 0.25em 0;
+}
+
+nav > ul {
+  padding-left: 0;
+  margin: 2em 0;
+  list-style: none;
+}
+
+nav > ul > li {
+  display: inline-block;
+  margin-right: 1em;
+  font-weight: bold;
+}
+
+nav > ul > li > a {
+  font-weight: normal;
+}
+
+main {
+  margin-bottom: 3em;
+  overflow: auto;
+}
+
+main > ul {
+  margin-top: 0;
+  line-height: 1.5;
+}
+
+img {
+  border: 2px solid #222;
+  margin-right: 2em;
+  float: left;
+}

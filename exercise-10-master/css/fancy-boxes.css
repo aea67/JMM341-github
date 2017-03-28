@@ -1,0 +1,49 @@
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+/* Do not touch the div CSS block! */
+div {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+#box01 {
+  background-color: rgba(28, 104, 167,1);
+  padding-top: 20px;
+
+}
+
+#box02 {
+  background-color: rgba(28, 104, 167,0.8);
+  margin: 20px;
+  padding-bottom: 20px;
+  border-left: 2px solid rgba(28,104,167,1);
+  border-right: 2px solid rgba(28,104,167,1);
+
+}
+
+#box03 {
+  background-color: rgba(28, 104, 167, 0.6);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid rgba(28,104,167,1);
+  border-left: 0;
+  border-right: 0;
+  /* L&R is same Border Effect as:
+  border-bottom: 2px solid rgba(28,104,167,1);
+*/
+}
+
+#box04 {
+  height: 60px;
+  background-color: rgba(28,104,167,0.4);
+  margin: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  border-left: 2px solid  rgba(28,104,167,1);
+  border-bottom: 2px solid  rgba(28,104,167,1);
+}
+
+/* Add your styles for each box below this line */

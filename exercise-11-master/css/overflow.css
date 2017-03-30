@@ -1,0 +1,28 @@
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 30px;
+  border: 1px solid rgb(219, 81, 73);
+
+  display: inline-block;
+  vertical-align: top;
+}
+#box01{
+    overflow: visible;
+}
+#box02{
+  overflow: hidden;
+}
+#box03{
+  overflow: scroll;
+}
+#box04{
+  overflow: auto;
+  /* auto only puts scroll bars if needed with size of box and content */
+}
+
+/* write all other styles below this line! */
